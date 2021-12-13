@@ -36,6 +36,8 @@ The purpose of this analysis was to analyze the temperature trends for the month
 
 **##Results##**
 
+-	June has more temperature data points than December. June has 1700 data points where as December only 1517 data points.
+
 ![Summary Statistics - June](https://user-images.githubusercontent.com/92111396/145825691-6ff188d1-51b8-45ff-aca5-4c7f5b2884c6.PNG)
 https://github.com/mcbride249/surfs_up/blob/main/Resources/Summary%20Statistics%20-%20June.PNG
 
@@ -47,4 +49,11 @@ https://github.com/mcbride249/surfs_up/blob/main/Resources/Temperature%20List%20
 
 ![Temperature List - December](https://user-images.githubusercontent.com/92111396/145825008-d76a198d-345d-4cdc-8ee8-175dd023d4ae.PNG)
 https://github.com/mcbride249/surfs_up/blob/main/Resources/Temperature%20List%20-%20December.PNG
+
+-	June on average is slightly warmer than December, however this may be due to the fact that June has more datapoints compared to December itself. The average temperature for June is 74 °F and December is 71 °F.
+-
+-	The maximum temperature are comparable; June has a maximum temperature of 85 °F , while December has maximum temperature of 83 °F. 
+
+-	The minimum temperature differ significantly, particularly for surfing temperature in Hawaii. June has a minimum temperature of 64 °F, while December has a minimum temperature of 56 °F.
+
 
