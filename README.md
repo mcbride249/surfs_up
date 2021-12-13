@@ -36,8 +36,6 @@ The purpose of this analysis was to analyze the temperature trends for the month
 
 **##Results##**
 
--	June has more temperature data points than December. June has 1700 data points where as December only 1517 data points.
-
 ![Summary Statistics - June](https://user-images.githubusercontent.com/92111396/145825691-6ff188d1-51b8-45ff-aca5-4c7f5b2884c6.PNG)
 https://github.com/mcbride249/surfs_up/blob/main/Resources/Summary%20Statistics%20-%20June.PNG
 
@@ -51,9 +49,19 @@ https://github.com/mcbride249/surfs_up/blob/main/Resources/Temperature%20List%20
 https://github.com/mcbride249/surfs_up/blob/main/Resources/Temperature%20List%20-%20December.PNG
 
 -	June on average is slightly warmer than December, however this may be due to the fact that June has more datapoints compared to December itself. The average temperature for June is 74 °F and December is 71 °F.
--
+
 -	The maximum temperature are comparable; June has a maximum temperature of 85 °F , while December has maximum temperature of 83 °F. 
 
 -	The minimum temperature differ significantly, particularly for surfing temperature in Hawaii. June has a minimum temperature of 64 °F, while December has a minimum temperature of 56 °F.
 
+-	June has more temperature data points than December. June has 1700 data points where as December only 1517 data points.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**##Summary##**
+
+  From the results we can conclude that the temperatures for June and December are relatively comparable and would be suitable for surfing all year long. There are two areas of concern however: one  would be the minimum temperature for December which was 56 °F. While surfing is more than possible at this temperature and would most likely not deter avid enthusiasts, it is unlikely that tourists or beginners would be inclined to pursue the activity at this temperature. The minimum temperature for December however differs greatly form the average temperature for the month which is 71 °F and much more of a comfortable temperature for surfing as well as for eating ice cream. Due to this variance, it is likely that the minimum temperature was an outlier and from the statistic quartiles it is evident that the temperature does fall closer to the average and high temperatures overall. The next area of concern would be the fact that compared to June, December has 183 fewer data points. This could cause problems when comparing the two months and it must be decided as  data scientist how we would want to approach this for comparison; that is to say would we fill the blank data points with null values (NaN) or fill it with the average temperature for that month. 
+  
+  Two additionally queries that I would also perform would be to determine the length of the rain fall itself as well as what point of the day it occurred. If the majority of the rainfall happened overnight in a short but intense downpour, this would have less of an impact on the ice cream and surf shop business than if the overall rainfall occurred over a longer period of time during the day. Similarly, I would also query and produce the summary statistics for all months, not just June and December.  This would allow us to see the overall temperature trends and see if there are any other months that would have temperatures and precipitation levels that would may impact the business. This data could then be used to determine which months may be expected to have “slow business” and used to determine when upgrades and renovations could be conducted, when large inventory restock should occur, as well as when additional staff may need to be taken on or existing staff should be encouraged to use their vacation. 
+
+  Overall, simply examining the temperature statistics for the months of June and December do not provide any relevant information regarding temperature trends or weather trends as whole. A more complete approach would be to at least compare the temperature data for all months, which would be simple to produce using the code we have (simple change the month) and additionally add in the precipitation data as well. From a business analysis view, it would also be best to retrieve data on tourist information to the island to determine peak seasons which would allow us to predict the “busy” seasons of our new business.
