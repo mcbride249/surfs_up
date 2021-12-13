@@ -36,7 +36,7 @@ The purpose of this analysis was to analyze the temperature trends for the month
 
 **##Results##**
 
-![Summary Statistics - June](https://user-images.githubusercontent.com/92111396/145824941-6845b808-84fc-4ad2-8ad4-a68f8ca68b79.PNG)
+![Summary Statistics - June](https://user-images.githubusercontent.com/92111396/145825691-6ff188d1-51b8-45ff-aca5-4c7f5b2884c6.PNG)
 https://github.com/mcbride249/surfs_up/blob/main/Resources/Summary%20Statistics%20-%20June.PNG
 
 ![Summary Statistics - December](https://user-images.githubusercontent.com/92111396/145825486-c41ecb1f-0f11-4d65-9ba2-e87a7b5d27b3.PNG)
