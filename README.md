@@ -8,13 +8,35 @@ The purpose of this analysis was to utilize SQLAlchemy, a query tool designed fo
 
 **Goals:**
 
-1.
-2.
-3.
+1. Retrieve the precipitation data and plot the data.
+2. Find the number of stations and determine the most active stations.
+3. Find the low, high, and average temperatures and plot the highest number of observations.
+4. Create a precipitation, stations, monthly temperature, and statistics route.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **##Summary**
+
+1. Retrieve the precipitation data and plot the data.
+
+![Goal 1](https://user-images.githubusercontent.com/92111396/145828269-f14e9a83-da6c-46a1-9a49-5fb4ae0dac3f.PNG)
+https://github.com/mcbride249/surfs_up/blob/main/Resources/Goal%201.PNG
+
+
+2. Find the number of stations and determine the most active stations.
+
+![Goal 2](https://user-images.githubusercontent.com/92111396/145828279-cbfe3135-70f1-4a50-8ff0-533e3146122a.PNG)
+https://github.com/mcbride249/surfs_up/blob/main/Resources/Goal%202.PNG
+
+3. Find the low, high, and average temperatures and plot the highest number of observations from the most active station.
+
+![Goal 3 - 1](https://user-images.githubusercontent.com/92111396/145828287-8b8521ee-edf2-4a96-ac5f-d4f3962f8048.PNG)
+https://github.com/mcbride249/surfs_up/blob/main/Resources/Goal%203%20-%201.PNG
+
+![Goal 3 - 2](https://user-images.githubusercontent.com/92111396/145828307-a538f255-b02c-43ca-97be-0d7b5e327f26.PNG)
+https://github.com/mcbride249/surfs_up/blob/main/Resources/Goal%203%20-%202.PNG
+
+4. Create a precipitation, stations, monthly temperature, and statistics route.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
