@@ -39,12 +39,13 @@ https://github.com/mcbride249/surfs_up/blob/main/Resources/Goal%203%20-%202.PNG
 **4. Create a precipitation, stations, monthly temperature, and statistics route.**
 
 https://github.com/mcbride249/surfs_up/blob/main/app.py
+
 http://127.0.0.1:5000/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **##Resources**
--Data Source: hawaii.sqlite 
+-Data Source: hawaii.sqlite, SurfsUp_Challenge_starter_code.ipynb 
 
 -Software: Python 3.7.10, Visual Studio Code, 1.38.1, 
 
